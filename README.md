@@ -1,4 +1,4 @@
-- # 👋 Hey, I’m [Aryamann](https://aryamann.verma.com) 
+- # 👋 Hey, I’m [Aryamann](https://aryamannverma.com) 
 
 - 👀 I’m interested in Software Development Engineering 
 - 🌱 I’m currently learning Network Security in general at my job at a junior level
