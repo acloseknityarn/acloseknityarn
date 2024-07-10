@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Development Engineering 
 - 🌱 I’m currently learning Network Security in general at my job at a junior level
 - 💞️ I’m looking to collaborate on Software Development projects and gain more knowledge related to it
-- 📫 How to reach me : Mail @ aryamann.verma@protonmail.com
+- 📫 How to reach me : Mail @ avverma19699@gmail.com
 
 
 
